@@ -1,0 +1,15 @@
+index.js Notes
+
+m = margin
+
+we created a text called purpose , in the banner component
+that we can use later on , 
+purpose will be used through props  
+every functional component has props
+this way we will be able to reuse the text
+
+Box is the most abstract component 
+on top of which other Chakra components 
+are built. 
+it renders a div element by default.
+(Box is like div in Chakra)
